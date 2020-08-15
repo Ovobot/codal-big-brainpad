@@ -38,10 +38,11 @@
             "url": "https://github.com/lancaster-university/codal-core"
         },
         {
-            "branch": "b13cb7f2f33908cb18cb5f57effddd7af1b75732",
-            "name": "codal-stm32",
-            "type": "git",
-            "url": "https://github.com/lancaster-university/codal-stm32"
+            "branch": "811d69d3380f18440f206c8d6a8bec974db4a80a", 
+            "name": "codal-stm32", 
+            "type": "git", 
+            "url": "https://github.com/Ovobot/codal-stm32"
+
         }
     ],
     "linker_flags": "-Wl,--no-wchar-size-warning -Wl,--gc-sections -mcpu=cortex-m4 -mthumb",
