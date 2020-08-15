@@ -38,7 +38,7 @@
             "url": "https://github.com/lancaster-university/codal-core"
         },
         {
-            "branch": "811d69d3380f18440f206c8d6a8bec974db4a80a", 
+            "branch": "xtronpro", 
             "name": "codal-stm32", 
             "type": "git", 
             "url": "https://github.com/Ovobot/codal-stm32"
