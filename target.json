@@ -38,14 +38,14 @@
     "libraries":[
         {
             "name":"codal-core",
-            "url":"https://github.com/lancaster-university/codal-core",
-            "branch":"master",
+            "url":"https://github.com/Ovobot/codal-core",
+            "branch":"codal-core-xtronpro",
             "type":"git"
         },
         {
             "name":"codal-stm32",
             "url":"https://github.com/Ovobot/codal-stm32",
-            "branch":"master",
+            "branch":"xtronpro",
             "type":"git"
         }
     ]
